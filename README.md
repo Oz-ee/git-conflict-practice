@@ -1,1 +1,1 @@
-# Azarel's Practice Repo, Written by Azarel.
+# Git Merge Lab.
