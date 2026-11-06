@@ -1,1 +1,1 @@
-# Conflict Practice by Azarel.
+# Git Merge Lab: Conflict Practice by Azarel.
