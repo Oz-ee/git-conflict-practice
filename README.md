@@ -1,1 +1,1 @@
-# Written by Oz
+# Azarel's Practice Repo, Written by Azarel.
